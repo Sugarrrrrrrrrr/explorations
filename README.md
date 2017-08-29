@@ -1,2 +1,2 @@
 # explorations
-explorations to Programming ~
+My explorations to Programming ~
